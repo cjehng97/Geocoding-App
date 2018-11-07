@@ -1,3 +1,3 @@
 # Geocoding-App
-#Android application that interacts with the Google geocoding API.
+Android application that interacts with the Google geocoding API.
 
